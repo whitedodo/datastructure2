@@ -1,0 +1,15 @@
+9 14
+AB 5 Make_foundation
+AC 6 Add_subflooring
+BD 3 Frame_wall/roof
+CD 6 Dummy_B
+CE 3 Install_windows
+DE 3 Dummy_D
+DF 4 Partition_rooms
+DG 4 Dummy_C
+EG 1 Dummy_E
+EH 4 Dummy_F
+FJ 4 Add_sliding
+GI 5 Install_wiring
+HI 2 Install_plumbling
+IJ 2 Install_doors
